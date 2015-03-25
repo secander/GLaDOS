@@ -13,3 +13,9 @@ sudo apt-get install -y python-pip
 
 # install aws cli
 sudo pip install awscli
+
+# install s3cmd
+sudo apt-get install -y s3cmd
+
+# install boto
+sudo pip install boto
